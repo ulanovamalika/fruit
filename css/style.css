@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    font-size: 200px;
+
+}
+img:hover {
+    background-color:gold;
+}
+.broccoli{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+}
+.apple{
+    background-color:green;
+    width: 250px;
+    height: 250px;
+}
+
+#heading{
+    color: blue;
+}
+.circular{
+    border-radius: 100%;
+}
